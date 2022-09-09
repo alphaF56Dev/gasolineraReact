@@ -53,7 +53,7 @@ export default function Product() {
             boxShadow="0px 4px 10px -3px rgb(117,117,177)"
             _hover={{
               bgGradient: "linear(to-r, purple.300, pink.300)",
-              shadow: "2x1"
+              shadow: "2xl"
             }}
             onClick={()=> saveGas(gas)}
             >

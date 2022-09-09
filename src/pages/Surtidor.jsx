@@ -55,7 +55,7 @@ export default function Surtidor() {
               background:
                 "linear-gradient(to right, var(--chakra-colors-blue-400), var(--chakra-colors-cyan-300))",
               color: "#fff",
-              shadow: "2x1",
+              shadow: "2xl",
             }}
             onClick={() => goProduct(surt.id)}
             >

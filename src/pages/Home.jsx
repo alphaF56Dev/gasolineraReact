@@ -21,7 +21,7 @@ export default function Home() {
           alignItems="center"
           cursor="pointer"
           shadow="base"
-          _hover={{shadow: "2x1"}}
+          _hover={{shadow: "2xl"}}
           onClick={irSurtidor}
           >
             <div>
